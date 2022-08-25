@@ -1,0 +1,21 @@
+{
+    "firstName": "Saiful",
+    "middleName": ".",
+    "lastName": "Islam",
+    "avatar": "\/images\/saiful_profile.jpg",
+    "titles": [
+      "Python/Django Developer",
+      "Software Engineer",
+      "React Developer"
+    ],
+    "socialNetworks": [
+      {
+        "link": "https://github.com/SaifulAbir",
+        "iconName": "faGithub"
+      },
+      {
+        "link": "https://www.linkedin.com/in/saifulislamcse/",
+        "iconName": "faLinkedin"
+      }
+    ]
+  }
